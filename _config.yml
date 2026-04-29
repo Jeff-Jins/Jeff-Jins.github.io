@@ -117,6 +117,10 @@ pwa:
 
 paginate: 10
 
+# Allow posts dated in the future (relative to build time) to be published.
+# Useful when authoring in KST while GitHub builds in UTC.
+future: true
+
 # The base URL of your site
 baseurl: ""
 
