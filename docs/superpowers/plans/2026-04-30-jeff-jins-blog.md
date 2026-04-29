@@ -156,7 +156,7 @@ theme: jekyll-theme-chirpy
 
 ```yaml
 comments:
-  active: giscus
+  provider: giscus
   giscus:
     repo: Jeff-Jins/Jeff-Jins.github.io
     repo_id: ""
